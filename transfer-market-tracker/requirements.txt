@@ -1,4 +1,6 @@
 pandas
 requests
 selenium
+beautifulsoup4
 sqlalchemy
+lxml
