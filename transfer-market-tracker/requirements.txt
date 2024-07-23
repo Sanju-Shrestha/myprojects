@@ -4,3 +4,8 @@ selenium
 beautifulsoup4
 sqlalchemy
 lxml
+matplotlib
+seaborn
+plotly
+scipy
+statsmodels

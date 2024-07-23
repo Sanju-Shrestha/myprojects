@@ -9,9 +9,9 @@ data_raw = pd.read_csv('data/raw/data_collection_raw.csv',header=None)
 
 # Creating a new header
 new_headers=['Rank','Player_Name','Nation','Position','Club','Age','Born','Matches_Played','Starts','Minutes_Played',
-         'Ninety_Mins_Played','Golas','Assists','Goals_Assists','Non_Penalty_Goals','Penalty_Made',
+         'Ninety_Mins_Played','Goals','Assists','Goals_Assists','Non_Penalty_Goals','Penalty_Made',
          'Penalty_Attempted','Yellow_Card','Red_Card','Expected_Goals','Non_Penalty_Expected_Goals',
-         'Expected_Assists','Non_Penalty_Expected_Goals_Assits','Progressive_Carries','Progressive_Passes',
+         'Expected_Assists','Non_Penalty_Expected_Goals_Assists','Progressive_Carries','Progressive_Passes',
          'Progressive_Passes_Received','Goals_90','Assists_90','Goals_Assists_90','Non_Penalty_Goals_90',
          'Non_Penalty_Goals_Assists_90','Expected_Goals_90','Expected_Assists_90','Expected_Goals_Assists_90',
          'Non_Penalty_Expected_Goals_90','Non_penalty_Expected_Goals_Assists_90','Matches']
